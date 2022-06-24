@@ -1,0 +1,14 @@
+1.set of activities performed during the software development process known as SDLC
+>different types of activities performed during the softer testing process known as STLC
+2.verification is nothing but the process of checking whether the developed softwer is bugfree or not /
+ >validation is the process of evaluating the final product to check whether the softwere meets business needs
+3.athentication is the process of verifying who a user is ,
+ >authorization is the process of verifying what they have access to
+4.test management plays key role in the softwere development because to ensure the quality of product and this testing process desides wether the product is quality or not safe to use,launch or not etc...
+5.the validation done in the browser called client side validation/
+ >the validation done on the server side known as the server side validation
+6.the fronted flow is responsible ton determine a solution for a given problem or oppurtunity and transform it into IRL circuit desc\ription
+7.there are 5 phases in the project life cycle intiating,planning,executing,monitoring,closing
+8.i think no one can give proper definition success because it continuous process once we reach certain goal then we aim for the next level and feel it like success
+9.my strength is im a quick learner and im adaptable to work in any environment my weakness is im afraid of asking help,however iam learning to ask for help from others to expedite my own work
+10.yes i do face many challenges which i overcome it with abilities and positive attitude towards my life 
